@@ -1,0 +1,33 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\bin\Debug\Birth Date String.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth_Date_String.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 03\Tutorial 3-1\Birth Date String\Birth Date String\obj\x86\Debug\Birth Date String.csproj.GenerateResource.Cache
